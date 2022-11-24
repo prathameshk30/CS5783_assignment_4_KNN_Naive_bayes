@@ -4,7 +4,7 @@ This repo consists of a total of 4 files:-
 
 A) A pdf answer for Naive Bayes Claasifier.
 
-B) ML_assignment_4_Q1- for first question.
+B) ML_assignment_4_Q1- for first question. (I could not code the MAP rule. Therefore have given the general classifier.)
 
 C) ML_assignment_4_Q2- for second question.
 
